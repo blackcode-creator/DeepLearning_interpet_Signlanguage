@@ -2,7 +2,7 @@
 
 This goal is further motivated by the isolation that is felt within the deaf community. Loneliness and depression exists in higher rates among the deaf population, especially when they are immersed in a hearing world.
 
-The goal for this paper is to build a neural network able to classify which letter of the American Sign Language (ASL) alphabet is being signed, given an image of a signing hand. Building this makes possible sign language translator which can take communications in sign language and translate them in written and oral language.
+The goal for this project is to build a neural network able to classify which letter of the American Sign Language (ASL) alphabet is being signed, given an image of a signing hand. Building this makes possible sign language translator which can take communications in sign language and translate them in written and oral language.
 
 Higher accuracy of 85.34% :smile: on prediction of test_images
 
